@@ -1,0 +1,32 @@
+.container {
+  margin-top: 30px;
+}
+
+.add-cli {
+  margin-bottom: 10rem;
+}
+
+.list-cli {
+  margin-bottom: 10rem;
+}
+
+.btn-add-cli {
+
+  float:left
+}
+
+.btn-none-cli {
+
+  float:right
+}
+.AdicionarCliente{
+  margin-top: 30rem;
+  margin-bottom: 30rem;
+  text-align: center;
+}
+
+
+.busc-cli {
+
+  margin-top: 10rem;
+}
